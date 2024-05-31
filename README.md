@@ -13,7 +13,7 @@
 
 ## 프로젝트
 ### 1. Bug's Game
-  - 
+  ![Bug'sGame](https://github.com/tbvjchvkfl/ReamMe/assets/137769043/00c3965a-70b6-48e3-b72f-b1bbd805cd16)
   - 제작 기간 : 30일
   - 핵심 기능 :
     - FrameWork
