@@ -16,8 +16,9 @@
   ![Bug'sGame](https://github.com/tbvjchvkfl/ReamMe/assets/137769043/00c3965a-70b6-48e3-b72f-b1bbd805cd16)
   - 제작 기간 : 30일
   - 핵심 기능 :
-    - FrameWork
-    - asdf
+    - COM
+    - DirectX2D GameFramework
+    - Bitmap
   - [상세 코드 링크](https://github.com/tbvjchvkfl/Personal_Project/tree/master/Bug_Game)
 ### 2. Horror's Game
   -
