@@ -21,9 +21,13 @@
     - Bitmap
   - [상세 코드 링크](https://github.com/tbvjchvkfl/Personal_Project/tree/master/Bug_Game)
 ### 2. Horror's Game
-  -
+  
   - 제작 기간 : 30일
   - 핵심 기능 :
+    - ㅁㄴㅇㄹ
+    - ㅁㄴㅇㄹ
+    - ㅁㄴㅇㄹ
+  - [상세 코드 링크]
 
 ## 연락처
 - 이메일 : anfmdehfnjs4@gmail.com
