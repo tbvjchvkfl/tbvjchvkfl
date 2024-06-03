@@ -24,10 +24,10 @@
   
   - 제작 기간 : 30일
   - 핵심 기능 :
-    - ㅁㄴㅇㄹ
-    - ㅁㄴㅇㄹ
-    - ㅁㄴㅇㄹ
-  - [상세 코드 링크]
+    - AI_Perception
+    - LineTrace & Collision
+    - Interface
+  - [상세 코드 링크](https://github.com/tbvjchvkfl/Personal_Project/tree/master/UE5_HorrorGame)
 
 ## 연락처
 - 이메일 : anfmdehfnjs4@gmail.com
