@@ -14,7 +14,7 @@
   [<img src = "https://github.com/tbvjchvkfl/ReamMe/assets/137769043/00c3965a-70b6-48e3-b72f-b1bbd805cd16" width = "350" height = "250">](https://github.com/tbvjchvkfl/Personal_Project/tree/master/Bug_Game)
   
 ### 2. Horror's Game
-  [<img src = "https://github.com/tbvjchvkfl/Personal_Project/assets/137769043/efbba425-d0b9-498b-8baa-6c7f068883b5" width = "350 heigh = "250">](https://github.com/tbvjchvkfl/Personal_Project/tree/master/UE5_HorrorGame)
+  [<img src = "https://github.com/tbvjchvkfl/Personal_Project/assets/137769043/efbba425-d0b9-498b-8baa-6c7f068883b5" width = "350" heigh = "250">](https://github.com/tbvjchvkfl/Personal_Project/tree/master/UE5_HorrorGame)
 ## 연락처
 - 이메일 : anfmdehfnjs4@gmail.com
 - 전화 번호 : 01029848485
