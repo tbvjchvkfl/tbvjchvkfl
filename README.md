@@ -7,6 +7,7 @@
 
 ## 보유 기술
 - C++
+- DirectX
 - Unreal Engine5
 
 ## 프로젝트
