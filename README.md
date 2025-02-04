@@ -17,9 +17,7 @@
 ### [2. Horror's Game](https://github.com/tbvjchvkfl/Personal_Project/tree/master/UE5_HorrorGame)
   [<img src = "https://github.com/user-attachments/assets/63abe5c1-9ebe-4565-83be-756bac1d5c7a" width = "350" heigh = "250">](https://github.com/tbvjchvkfl/Personal_Project/tree/master/UE5_HorrorGame)
 
-### [3. Inventory System](https://github.com/tbvjchvkfl/UE5_TimeTravleHunter/tree/master/Source/UE5_TimeTravleHunter/Private/UI)
-  [<img src = "https://github.com/user-attachments/assets/62a02d4e-f9a0-476e-8edc-76fa1b8afd89" width = "450" heigh = "250">](https://github.com/tbvjchvkfl/UE5_TimeTravleHunter/tree/master/Source/UE5_TimeTravleHunter/Private/UI)
-
+### [3. ThirdPersonProto](https://github.com/tbvjchvkfl/UE5_TimeTravleHunter)
 [![Image](https://github.com/user-attachments/assets/eb69e541-e1ce-491d-af0f-30b46657a1fa)](https://github.com/tbvjchvkfl/UE5_TimeTravleHunter)
 
 ## 연락처
