@@ -13,11 +13,8 @@
 ## 프로젝트
 ### [1. Bug's Game](https://github.com/tbvjchvkfl/Personal_Project/tree/master/Bug_Game)
   [<img src = "https://github.com/tbvjchvkfl/ReamMe/assets/137769043/00c3965a-70b6-48e3-b72f-b1bbd805cd16" width = "350" height = "250">](https://github.com/tbvjchvkfl/Personal_Project/tree/master/Bug_Game)
-  
-### [2. Horror's Game](https://github.com/tbvjchvkfl/Personal_Project/tree/master/UE5_HorrorGame)
-  [<img src = "https://github.com/user-attachments/assets/63abe5c1-9ebe-4565-83be-756bac1d5c7a" width = "350" heigh = "250">](https://github.com/tbvjchvkfl/Personal_Project/tree/master/UE5_HorrorGame)
 
-### [3. ThirdPersonProto](https://github.com/tbvjchvkfl/UE5_TimeTravleHunter)
+### [2. ThirdPersonProto](https://github.com/tbvjchvkfl/UE5_TimeTravleHunter)
 [![Image](https://github.com/user-attachments/assets/eb69e541-e1ce-491d-af0f-30b46657a1fa)](https://github.com/tbvjchvkfl/UE5_TimeTravleHunter)
 
 ## 연락처
