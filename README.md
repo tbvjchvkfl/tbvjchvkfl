@@ -6,9 +6,10 @@
 선배 동료로부터 많은 것을 배울 수 있고, 개발에 대한 열정이 가득한 프로젝트에서 함께 일하고 싶습니다.
 
 ## 보유 기술
-- C++
+- C++ / C#
 - DirectX
-- Unreal Engine5
+- Unity Engine
+- Unreal Engine
 
 ## 프로젝트
 ### [1. Bug's Game](https://github.com/tbvjchvkfl/Personal_Project/tree/master/Bug_Game)
@@ -16,6 +17,8 @@
 
 ### [2. ThirdPersonProto](https://github.com/tbvjchvkfl/UE5_TimeTravleHunter)
 [<img src = "https://github.com/user-attachments/assets/8759c434-26d3-41c8-aa50-0209136f2a0d" width = "350" height = "250">](https://github.com/tbvjchvkfl/UE5_TimeTravleHunter)
+
+### [3. Project_Home](https://github.com/tbvjchvkfl/UnityEngine_Project/tree/main)
 
 ## 연락처
 - 이메일 : anfmdehfnjs4@gmail.com
